@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Mina">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-core-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
